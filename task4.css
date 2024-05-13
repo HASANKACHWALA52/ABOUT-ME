@@ -89,3 +89,18 @@ body{
 .me{
     text-align: center;
 }
+.insta{
+    right:40px;
+    bottom: -18px;
+    position: fixed;
+}
+.snap{
+    right: 40px;
+    bottom: -250px;
+    position: fixed;
+}
+.twit{
+    right: 40px;
+    bottom: -300px;
+    position: fixed;
+}
